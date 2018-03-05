@@ -1,5 +1,5 @@
 # localStorage
-localStorage用法及加密解密
+# localStorage用法及加密解密
 
 # 存储字符串、数组
 例如：
